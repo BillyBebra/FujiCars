@@ -1,0 +1,1 @@
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A2665e55502de70aec08e803f48371d48559bf01ada3f4569f34a9d7cf6cdcec1&amp;width=563&amp;height=354&amp;lang=ru_RU&amp;scroll=true"></script>
